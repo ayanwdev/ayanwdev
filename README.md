@@ -1,16 +1,23 @@
-## Hi there 👋
+<p>
+  <h1>Hi, I'm AyanW</h1>
+</p>
 
-<!--
-**ayanwdev/ayanwdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  - <b>Languages</b>: Kotlin, Jetpack Compose, Next.js, React Native <br />
+  - <b>Tools</b>: Android Studio, VSCode, Figma, Blender
+</p>
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td align="center">
+      <img style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ayanwdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" />
+    </td>
+    <td align="center">
+      <img style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanwdev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  - <b>Socials</b>: Discord (<code>@ayanw.dev</code>), BlueSky (<code><a href="https://bsky.app/profile/ayanwdev.bsky.social">ayanwdev.bsky.social</a></code>)
+</p>
