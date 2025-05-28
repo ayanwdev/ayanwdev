@@ -4,7 +4,7 @@
 
 <p>
   - <b>Languages</b>: Kotlin, Jetpack Compose, Next.js, React Native <br />
-  - <b>Tools</b>: Android Studio, VSCode, Figma, Blender
+  - <b>Tools</b>: Android Studio, VSCode, Figma, Blender <br />
   - I use NixOS btw
 </p>
 
